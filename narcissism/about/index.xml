@@ -4,11 +4,8 @@
     <title>關於我，與書 on 自戀筆記</title>
     <link>https://lincalvino.me/narcissism/about/</link>
     <description>Recent content in 關於我，與書 on 自戀筆記</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>zh-tw</language>
-    
-	<atom:link href="https://lincalvino.me/narcissism/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://lincalvino.me/narcissism/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
